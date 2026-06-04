@@ -1,0 +1,3 @@
+# Wanderlust-Website
+
+Wanderlust is a full-stack Airbnb-inspired web application where users can explore, create, edit, and manage property listings. The project includes user authentication, authorization, image uploads with Cloudinary, review functionality, and session management. It is built using Node.js, Express.js, MongoDB, Mongoose, EJS, and Passport.js,following the MVC architecture and RESTful routing principles.
